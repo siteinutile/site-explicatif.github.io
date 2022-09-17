@@ -1,0 +1,34 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.lorem {
+    text-align: center;
+}
+
+main {
+    max-width: 444.438px;
+    max-height: 250px;
+    background: black;
+    margin: 10px auto;
+}
+
+#cute {
+    position: asolute;
+    z-index: -1;
+}
+
+#rectangle {
+    background: black;
+    height: 5px;
+    width: 500px;
+    position: absolute;
+    top: 35px;
+    right: 40px;
+}
