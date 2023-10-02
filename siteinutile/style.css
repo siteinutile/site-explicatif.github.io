@@ -1,0 +1,110 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background: url(./background.png) center/cover
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: justify;
+    color: brown;
+    text-decoration-color: blueviolet;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-right: 15%;
+}
+
+h2 {
+    color: red;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    margin-left: 20%;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+p {
+    text-align: justify;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 10px;
+    color: antiquewhite;
+}
+
+.image {
+    height: 100px;
+    margin-left: 70%;
+    position: absolute;
+    z-index: -1;
+    margin-top: 20px;
+}
+
+.imagegithub {
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 70%;
+    z-index: -1;
+    position: absolute;
+}
+
+li {
+    margin-top: 10px;
+    margin-left: 25%;
+    color: antiquewhite;
+}
+
+.github {
+    margin-top: 50px;
+}
+
+.lien {
+    margin-left: 37%;
+    color: blue;
+
+}
+
+.tutohtml {
+    margin-top: 50px;
+}
+
+.vidéo {
+    margin-left: 40%;
+    min-height: 300px;
+    width: min-content;
+}
+
+.fin {
+    margin-top: 20px;
+}
+
+.jsp {
+    margin-top: 70px;
+}
+
+main {
+    background-color: aqua;
+    height: 25px;
+    width: 50px;
+    margin: 0 auto;
+    border-radius: 15%;
+}
+
+.ancre {
+    position: relative;
+    margin-left: 3px;
+    color: aqua;
+}
+
+.material-icons {
+    height: 30px;
+}
+
+#arrow {
+    left: 20%;
+    position: relative;
+    bottom: 0px;
+    color: black;
+}
